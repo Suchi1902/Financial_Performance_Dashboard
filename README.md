@@ -119,6 +119,29 @@ Financial_Performance_Dashboard/
 
 ![Sales by Segment](dashboard_images/sales_by_segment.png)
 
+
+## 💡 Business Recommendations
+
+Based on the analysis:
+
+- Focus marketing efforts on the highest-performing countries.
+- Increase inventory for high-profit products.
+- Review pricing strategies for lower-profit products.
+- Plan promotional campaigns during low-sales months.
+- Monitor customer segment performance to improve sales strategies.
+
+
+## 🛠 Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Business Analysis
+- SQL Query Writing
+- KPI Analysis
+- Git & GitHub
+- Documentation
+
 ## Author
 
 **Suchitra Behera**
