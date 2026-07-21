@@ -94,6 +94,31 @@ Financial_Performance_Dashboard/
 └── requirements.txt
 ```
 
+
+## 📷 Dashboard Visualizations
+
+### 🌍 Sales by Country
+
+![Sales by Country](dashboard_images/sales_by_country.png)
+
+---
+
+### 📈 Monthly Sales Trend
+
+![Monthly Sales Trend](dashboard_images/monthly_sales.png)
+
+---
+
+### 💰 Profit by Product
+
+![Profit by Product](dashboard_images/profit_by_product.png)
+
+---
+
+### 🥧 Sales by Segment
+
+![Sales by Segment](dashboard_images/sales_by_segment.png)
+
 ## Author
 
 **Suchitra Behera**
