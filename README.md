@@ -6,6 +6,38 @@ Financial Performance Dashboard using Excel, SQL, Python, and Power BI
 
 This project analyzes a financial dataset using Python to uncover business insights. It demonstrates data cleaning, exploratory data analysis (EDA), and visualization techniques.
 
+## ✨ Features
+
+- Cleaned and preprocessed financial data using Python
+- Performed Exploratory Data Analysis (EDA)
+- Calculated key business KPIs
+- Visualized sales and profit trends
+- Analyzed country, product, and customer segment performance
+- Created SQL queries for business analysis
+- Documented the complete workflow on GitHub
+
+## 📁 Project Structure
+
+```text
+Financial_Performance_Dashboard/
+│
+├── data/
+│   ├── raw/
+│   └── cleaned/
+│
+├── python/
+│   └── data_cleaning.ipynb
+│
+├── sql/
+│   └── analysis.sql
+│
+├── dashboard_images/
+│
+├── README.md
+├── requirements.txt
+└── LICENSE
+```
+
 ## Objectives
 
 - Clean and prepare financial data
